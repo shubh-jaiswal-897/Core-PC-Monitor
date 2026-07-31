@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller build/dist folders
+build/
+dist/
+
+# Local configuration
+.env
+.venv
+venv/
+env/
